@@ -1,0 +1,8 @@
+Continent,COUNT(*),AVG(Population)
+"North America",37,13053864.8649
+Asia,51,72647562.7451
+Africa,58,13525431.0345
+Europe,46,15871186.9565
+"South America",14,24698571.4286
+Oceania,28,1085755.3571
+Antarctica,5,0.0000
